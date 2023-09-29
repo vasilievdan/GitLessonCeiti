@@ -125,4 +125,5 @@ VALUES
 -- Decriptarea datelor
 SELECT ID, Nume, DecryptByKey(Prenume) AS Prenume_decriptat FROM TabelaExemplu;
 
+SELECT * FROM Conturi;
 
